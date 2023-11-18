@@ -11,7 +11,7 @@ function Project() {
 
           <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
             {projectData.portfolioItems.map((item) => (
-              <div class="bg-white p-6 rounded-lg shadow-md">
+              <div class="bg-white p-6 rounded-lg shadow-md" key={item.count}>
                 <h3 className="text-xl font-bold mb-4">{item.title}</h3>
                 <img
                   src={item.imageUrl}

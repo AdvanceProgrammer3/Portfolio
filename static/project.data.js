@@ -2,6 +2,7 @@ export const projectData = {
   portfolioItems: [
     {
       title: "Project 1",
+      count: 1,
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus nec neque vel urna cursus pellentesque.",
       imageUrl:
@@ -9,6 +10,7 @@ export const projectData = {
     },
     {
       title: "Project 2",
+      count: 2,
       description:
         "Integer ac nisl sit amet quam efficitur fermentum. Fusce ut arcu eu dolor aliquam facilisis.",
       imageUrl:
@@ -16,6 +18,7 @@ export const projectData = {
     },
     {
       title: "Project 3",
+      count: 3,
       description:
         "Sed interdum justo eget felis varius, a lacinia justo fringilla. Nulla facilisi. Curabitur vitae tincidunt augue.",
       imageUrl:
