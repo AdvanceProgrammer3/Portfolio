@@ -5,7 +5,7 @@ function About() {
     <div>
       {/* <!-- About Section --> */}
       <section class="py-16">
-        <div class="container mx-auto">
+        <div class="container mx-auto px-2">
           <h2 class="text-3xl font-bold mb-8">About Me</h2>
           <p>
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque

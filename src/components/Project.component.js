@@ -6,8 +6,8 @@ function Project() {
   return (
     <div>
       <section class="bg-gray-100 py-16">
-        <div class="container mx-auto">
-          <h2 class="text-3xl font-bold mb-8">Portfolio</h2>
+        <div class="container mx-auto ">
+          <h2 class="text-3xl font-bold mb-8 px-2">Portfolio</h2>
 
           <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
             {projectData.portfolioItems.map((item) => (

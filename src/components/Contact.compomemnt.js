@@ -4,7 +4,7 @@ function Contact() {
   return (
     <div>
       <section class="py-16">
-        <div class="container mx-auto">
+        <div class="container mx-auto px-2">
           <h2 class="text-3xl font-bold mb-8">Contact Me</h2>
           <form
             action="#"

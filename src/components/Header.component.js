@@ -8,10 +8,10 @@ function Header() {
       <nav class="bg-blue-500 p-4">
         <div class="container mx-auto">
           <div class="flex justify-between items-center">
-            <a href="#" class="text-white text-2xl font-bold">
+            <a href="#" class="text-white sm:text-2xl font-bold ">
               ROHIT PATEL
             </a>
-            <div class="space-x-4">
+            <div class="space-x-2 sm:space-x-4">
               <a href="/" class="text-white">
                 Home
               </a>
