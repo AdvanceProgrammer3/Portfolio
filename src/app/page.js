@@ -8,10 +8,12 @@ export default function Home() {
   return (
     <main className="">
       <HeroSection />
-      <About />
-      <Project />
-      <Contact />
-      <Footer />
+      <div className="px-4">
+        <About />
+        <Project />
+        <Contact />
+        <Footer />
+      </div>
     </main>
   );
 }

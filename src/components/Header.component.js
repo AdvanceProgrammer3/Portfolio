@@ -12,16 +12,16 @@ function Header() {
               ROHIT PATEL
             </a>
             <div class="space-x-2 sm:space-x-4">
-              <a href="/" class="text-white">
+              <a href="/" class="text-white font-[barlow]">
                 Home
               </a>
-              <a href="/about" class="text-white">
+              <a href="/about" class="text-white font-[barlow]">
                 About
               </a>
-              <a href="/project" class="text-white">
+              <a href="/project" class="text-white font-[barlow]">
                 Portfolio
               </a>
-              <a href="/contact" class="text-white">
+              <a href="/contact" class="text-white font-[barlow]">
                 Contact
               </a>
             </div>
